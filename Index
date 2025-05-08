@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inicio - Mi Proyecto FabLab</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a mi Bitácora FabLab</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="presentacion.html">Presentación</a></li>
+        <li><a href="modulo1.html">Módulo 1</a></li>
+        <!-- ... módulos siguientes ... -->
+        <li><a href="otros1.html">Módulo Extra 1</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <p>¡Explora mis avances, experimentos y proyectos en este fascinante viaje FabLab!</p>
+  </main>
+</body>
+</html>
